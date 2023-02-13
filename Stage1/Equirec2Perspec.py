@@ -82,7 +82,7 @@ class Equirectangular:
 if __name__=="__main__":
     from PIL import Image
     import numpy as np
-    equ = Equirectangular('Panoramas_test/pano_9UKg2qn7p9CBkgB9kJJD0g.jpg')    # Load equirectangular image
+    equ = Equirectangular('Panoramas_dir/panorama.jpg')    # Load equirectangular image
     
     #
     # FOV unit is degree 
