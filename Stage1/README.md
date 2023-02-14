@@ -12,6 +12,6 @@ Python Module to retrieve street level panoramic and flat images from Google Str
 
 Python Module containing utility functions for the building footprint.
 
-### *Equirec2Perspec.py* 
+#### *Equirec2Perspec.py* 
 
 Python Module used for transforming *equirectangular* Panoramic images to *rectilinear* projected images.
