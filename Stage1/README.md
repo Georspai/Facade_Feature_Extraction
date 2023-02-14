@@ -6,11 +6,11 @@ Demo for the Data Collection and Preprocessing Pipeline.
 
 #### *GoogleStreetView.py*:
 
-Python Module to retrieve Street level panoramic and flat images from Google Street View.
+Python Module to retrieve street level panoramic and flat images from Google Street View.
 
 #### *buildingFootprint.py*
 
-Python Module containing Utility functions for the building footprint.
+Python Module containing utility functions for the building footprint.
 
 ### *Equirec2Perspec.py* 
 
